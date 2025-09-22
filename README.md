@@ -3,7 +3,7 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/top/nadiacaricattp/conta_bancaria?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/nadiacaricatto/conta_bancaria?style=flat-square" />
   <img src="https://img.shields.io/github/repo-size/nadiacaricatto/conta_bancaria?style=flat-square" />
   <img src="https://img.shields.io/github/languages/count/nadiacaricatto/conta_bancaria?style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/nadiacaricatto/conta_bancaria?style=flat-square" />
