@@ -62,7 +62,7 @@ public class Menu {
 
 					break;
 				case 5:
-					System.out.println(Cores.TEXT_WHITE_BOLD + "APAGAR A CONTAA\n\n");
+					System.out.println(Cores.TEXT_WHITE_BOLD + "APAGAR A CONTA\n\n");
 
 					break;
 				case 6:
@@ -74,7 +74,7 @@ public class Menu {
 
 					break;
 				case 8:
-					System.out.println(Cores.TEXT_WHITE_BOLD + "TRANSFERÊNCIA ENTRE CONTASA\n\n");
+					System.out.println(Cores.TEXT_WHITE_BOLD + "TRANSFERÊNCIA ENTRE CONTAS\n\n");
 
 					break;
 				default:
