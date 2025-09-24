@@ -19,6 +19,12 @@ public class Conta {
 		this.titular = titular;
 		this.saldo = saldo;
 	}
+	
+	public Conta() {} // Construtor Vazio: cria um objeto sem nenhum atribuitp - mesmo nome, parâmetros diferentes
+	//Chamado de sobrecarga de Método: dois métodos, na mesma classe, com parâmetros diferentes
+	//Pode ser feito para que seus atributos sejam adicionados posteriormente, ou para fazer teste de aplicação
+	
+	
 // Métodos Get e Set
 
 	public int getNumero() {
